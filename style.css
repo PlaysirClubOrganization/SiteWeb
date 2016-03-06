@@ -1,0 +1,25 @@
+body
+{
+	background-image: url("Sources/bg1.png");
+	font-size: 1.9em;
+}
+#Home{
+	color: #89B200;
+}
+#Membres{
+	color: #00B3DB;
+}
+#Projets{
+	color: #F18E00;
+}
+#Ressources{
+	color: #E50077;
+}
+#Contact{
+	color: #490059;
+}
+#bgHome{
+	background-color: rgba(145,214,0,0.5);
+	color: rgba(0,0,0,1);
+	text-align: justify;
+}
