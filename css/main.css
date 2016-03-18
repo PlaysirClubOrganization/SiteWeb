@@ -630,7 +630,12 @@ body > section {
   margin-top: 5px;
   display: block;
   font-size: 13px;
+  color: #fff;
 }
+#meet-the-team{
+  color: #fff;
+}
+
 .img-thumbnail {
   border: 0;
 }
